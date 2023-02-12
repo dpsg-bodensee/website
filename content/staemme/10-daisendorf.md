@@ -4,4 +4,11 @@ name: "St. Martin"
 ort: "Daisendorf"
 nr: 10
 page: true
+# summary: "Der Stamm St. Martin wurde 1987 von Johann Nolle gegründet und befindet sich im östlichsten Teil der Diözese Freiburg, östlicher ist nur noch der Stamm St. Nikolaus Markdorf."
 ---
+
+Der Stamm St. Martin wurde 1987 von Johann Nolle gegründet und befindet sich im östlichsten Teil der Diözese Freiburg, östlicher ist nur noch der Stamm St. Nikolaus Markdorf, für den der Stamm Daisendorf vor einigen Jahren die Patenschaft übernommen hat.
+
+## Links
+
+* Homepage: [st-martin-daisendorf.blogspot.com](https://st-martin-daisendorf.blogspot.com)
