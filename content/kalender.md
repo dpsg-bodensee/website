@@ -1,8 +1,8 @@
 ---
-title: "Die Bezirksleitung"
+title: "Kalender"
 page: true
 menu:
   main:
-    name: "Bezirksleitung"
+    name: "Kalender"
     weight: 3
 ---
