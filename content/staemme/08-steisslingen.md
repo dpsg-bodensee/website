@@ -4,6 +4,8 @@ name: "St. Remigius"
 ort: "Steißlingen"
 nr : 8
 page: true
+thumbnail: "/img/staemme/steisslingen.webp"
+thumbnail_hide_post: true
 ---
 
 Vor 50 Jahren waren wir noch ein sehr kleines "Häuflein Gleichgesinnter", das sich vom Stamm Singen auslöste.

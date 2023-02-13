@@ -11,7 +11,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
 #   avatar = "img/avatar.png"
 
 [permalinks]
-  staemme = "/stamm/:slug/"
+  # staemme = "/stamm/:slug/"
 
 [Params]
   opengraph = true # Enable OpenGraph if true

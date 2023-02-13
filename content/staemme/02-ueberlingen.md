@@ -4,6 +4,8 @@ name: "Paul VI."
 ort: "Überlingen"
 nr: 2
 page: true
+thumbnail: "/img/staemme/ueberlingen.webp"
+thumbnail_hide_post: true
 ---
 In unserem Stamm können wir stolz auf unsere Stammesgeschichte zurückblicken :
 
