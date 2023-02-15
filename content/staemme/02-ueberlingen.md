@@ -4,6 +4,7 @@ name: "Paul VI."
 ort: "Überlingen"
 nr: 2
 page: true
+readmore: true
 thumbnail: "/img/staemme/ueberlingen.webp"
 thumbnail_hide_post: true
 ---

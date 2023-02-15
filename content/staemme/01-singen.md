@@ -4,6 +4,7 @@ name: "St. Pankratius"
 ort: "Singen"
 nr: 1
 page: true
+readmore: true
 ---
 
 ## Links

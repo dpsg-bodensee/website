@@ -4,6 +4,7 @@ name: "Peter und Paul"
 ort: "Mühlhausen-Ehingen"
 nr: 3
 page: true
+readmore: true
 ---
 
 ## aktueller Vorstand

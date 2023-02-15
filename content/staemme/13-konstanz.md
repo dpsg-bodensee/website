@@ -4,6 +4,7 @@ name: "Bruder Klaus"
 ort: "Konstanz"
 nr: 13
 page: true
+readmore: true
 thumbnail: "/img/staemme/konstanz.png"
 thumbnail_hide_post: true
 ---

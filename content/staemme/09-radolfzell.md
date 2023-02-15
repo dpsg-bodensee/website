@@ -4,6 +4,7 @@ name: "Impeesa"
 ort: "Radolfzell-Markelfingen"
 nr: 9
 page: true
+readmore: true
 thumbnail: "/img/staemme/radolfzell.webp"
 thumbnail_hide_post: true
 # summary: "Der Stamm Impeesa wurde 1956 gegründet und hat seinen Sitz in Markelfingen."

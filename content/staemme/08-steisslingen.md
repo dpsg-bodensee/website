@@ -4,6 +4,7 @@ name: "St. Remigius"
 ort: "Steißlingen"
 nr : 8
 page: true
+readmore: true
 thumbnail: "/img/staemme/steisslingen.webp"
 thumbnail_hide_post: true
 ---

@@ -4,6 +4,7 @@ name: "St. Nikolaus"
 ort: "Markdorf"
 nr: 14
 page: true
+readmore: true
 thumbnail: "/img/staemme/markdorf.png"
 thumbnail_hide_post: true
 ---

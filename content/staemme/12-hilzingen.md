@@ -4,6 +4,7 @@ name: "Alfred Delp"
 ort: "Hilzingen"
 nr: 12
 page: true
+readmore: true
 ---
 
 ## aktueller Vorstand
