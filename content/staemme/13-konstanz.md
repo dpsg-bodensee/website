@@ -22,4 +22,4 @@ Patrick Abdelhak und Max Mehl {{< cloakemail "mail@pfadfinder-konstanz.de" >}}
 
 Markgrafenstraße 34  
 78467 Konstanz  
-{{< karte 47.67210 9.17466>}}
+{{< karte "47.67210" "9.17466" >}}

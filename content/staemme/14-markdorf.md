@@ -18,4 +18,4 @@ thumbnail_hide_post: true
 Kirchgasse 1  
 88677 Markdorf
 
-{{< karte 47.7206342 9.3912492 >}}
+{{< karte "47.7206342" "9.3912492" >}}

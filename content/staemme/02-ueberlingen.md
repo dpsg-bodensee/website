@@ -35,4 +35,4 @@ Bei den alljährlichen Schwedenprozessionen wird die Schwedenmadonna durch uns P
 Langgasse 2  
 88662 Überlingen  
 
-{{< karte 47.7685872 9.1744532 >}}
+{{< karte "47.7685872" "9.1744532" >}}
