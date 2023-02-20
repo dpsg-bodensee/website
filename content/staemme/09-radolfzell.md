@@ -29,4 +29,4 @@ Kontakt: {{< cloakemail "vorstand@dpsg-radolfzell.de" >}}
 Laurentiusstraße 9  
 78315 Radolfzell-Markelfingen
 
-{{< karte 47.74304 9.00725>}}
+{{< karte "47.74304" "9.00725" >}}
