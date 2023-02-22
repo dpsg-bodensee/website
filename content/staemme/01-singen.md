@@ -5,6 +5,7 @@ ort: "Singen"
 nr: 1
 page: true
 readmore: true
+summary: "Facebook: dpsgSingen | Instagram: dpsg_singen"
 ---
 
 ## Links

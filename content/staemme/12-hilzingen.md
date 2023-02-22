@@ -5,6 +5,7 @@ ort: "Hilzingen"
 nr: 12
 page: true
 readmore: true
+summary: "Homepage: dpsg-hilzingen.de | Facebook: DPSGHilzingen"
 ---
 
 ## aktueller Vorstand

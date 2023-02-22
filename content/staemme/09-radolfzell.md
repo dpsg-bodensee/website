@@ -7,7 +7,7 @@ page: true
 readmore: true
 thumbnail: "/img/staemme/radolfzell.webp"
 thumbnail_hide_post: true
-# summary: "Der Stamm Impeesa wurde 1956 gegründet und hat seinen Sitz in Markelfingen."
+summary: "Wir wurden am 3. April 1956 in Radolfzell gegründet. Der Gründungsname unseres Stammes war Siedlung Wiking, wurde dann sehr viel später  in Stamm Impeesa geändert. _Impeesa_ war ein Spitzname des Gründers der Pfadfinder, Lord Baden-Powell und heißt übersetzt „der Wolf der nie schläft“. Aktueller Vorstand: Thomas (Frosch) | Homepage: dpsg-radolfzell.de | Instagram: dpsg_stamm_impeesa | Facebook: dpsg.radolfzell.de"
 # date: 1956-04-03
 ---
 

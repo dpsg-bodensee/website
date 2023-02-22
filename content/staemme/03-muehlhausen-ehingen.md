@@ -5,6 +5,7 @@ ort: "Mühlhausen-Ehingen"
 nr: 3
 page: true
 readmore: true
+summary: "Aktueller Vorstand: Simon Missel, Marina Farkas, Roland Gaschler | Homepage: dpsg-ehingen.de | Instagram: dpsg_ehingen | Facebook: DPSGEhingen.Donau"
 ---
 
 ## aktueller Vorstand
