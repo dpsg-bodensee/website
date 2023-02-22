@@ -12,6 +12,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
 
 [permalinks]
   # staemme = "/stamm/:slug/"
+  aktuelles = "/aktuelles/:year/:slug/"
 
 [Params]
   opengraph = true # Enable OpenGraph if true
