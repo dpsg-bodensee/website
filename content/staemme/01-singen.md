@@ -6,6 +6,11 @@ nr: 1
 page: true
 readmore: true
 summary: "Facebook: dpsgSingen | Instagram: dpsg_singen"
+menu:
+  main:
+    parent: "staemme"
+    name: "Singen"
+    weight: 1
 ---
 
 ## Links

@@ -8,6 +8,11 @@ readmore: true
 thumbnail: "/img/staemme/markdorf.png"
 summary: "Homepage: dpsg-markdorf.de"
 thumbnail_hide_post: true
+menu:
+  main:
+    parent: "staemme"
+    name: "Markdorf"
+    weight: 14
 ---
 
 ## Links

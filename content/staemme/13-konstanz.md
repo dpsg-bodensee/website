@@ -8,6 +8,11 @@ readmore: true
 thumbnail: "/img/staemme/konstanz.png"
 summary: "Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren, später dann aber wurden die ersten Zelte angeschafft und “richtige” Lager aufgebaut. Seit damals ist unser Stamm gewachsen, sowohl in Mitgliedern als auch Erfahrung. Aktueller Vorstand: Patrick Abdelhak und Max Mehl | Homepage: pfadfinder-konstanz.de"
 thumbnail_hide_post: true
+menu:
+  main:
+    parent: "staemme"
+    name: "Konstanz"
+    weight: 13
 ---
 Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren, später dann aber wurden die ersten Zelte angeschafft und “richtige” Lager aufgebaut. Seit damals ist unser Stamm gewachsen, sowohl in Mitgliedern als auch Erfahrung.
 

@@ -7,6 +7,11 @@ page: true
 readmore: true
 thumbnail: "/img/staemme/steisslingen.webp"
 thumbnail_hide_post: true
+menu:
+  main:
+    parent: "staemme"
+    name: "Steißlingen"
+    weight: 8
 ---
 
 Vor 50 Jahren waren wir noch ein sehr kleines "Häuflein Gleichgesinnter", das sich vom Stamm Singen auslöste.

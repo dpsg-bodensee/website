@@ -7,6 +7,11 @@ page: true
 readmore: true
 thumbnail: "/img/staemme/ueberlingen.webp"
 thumbnail_hide_post: true
+menu:
+  main:
+    parent: "staemme"
+    name: "Überlingen"
+    weight: 2
 ---
 In unserem Stamm können wir stolz auf unsere Stammesgeschichte zurückblicken :
 

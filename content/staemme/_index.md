@@ -5,4 +5,5 @@ menu:
   main:
     name: "Stämme"
     weight: 1
+    identifier: "staemme"
 ---

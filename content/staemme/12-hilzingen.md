@@ -6,6 +6,11 @@ nr: 12
 page: true
 readmore: true
 summary: "Homepage: dpsg-hilzingen.de | Facebook: DPSGHilzingen"
+menu:
+  main:
+    parent: "staemme"
+    name: "Hilzingen"
+    weight: 12
 ---
 
 ## aktueller Vorstand
