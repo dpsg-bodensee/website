@@ -27,6 +27,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
   mainSections = ["news", "aktuelles","posts"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "02.01.2006" # Change the format of dates
   selfHosted = true # Use self-hosted fonts/js/css if true
+  start_button = true # Show "Start" button in header if true
 
 [Params.style.vars]
   highlightColor = "#003056" # Override main theme color
