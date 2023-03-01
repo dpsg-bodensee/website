@@ -3,6 +3,12 @@ title: "Radolfzell-Markelfingen, Impeesa"
 name: "Impeesa"
 ort: "Radolfzell-Markelfingen"
 nr: 9
+aliasses:
+  - /stamm/radolfzell
+  - /stamm/radolfzell-markelfingen
+  - /stamm/markelfingen
+  - /stamm/impeesa
+  - /staemme/09-radolfzell
 page: true
 readmore: true
 thumbnail: "/img/staemme/radolfzell.webp"

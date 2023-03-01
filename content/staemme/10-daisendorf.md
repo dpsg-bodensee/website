@@ -3,6 +3,10 @@ title: "Daisendorf, St. Martin"
 name: "St. Martin"
 ort: "Daisendorf"
 nr: 10
+aliasses:
+  - /stamm/daisendorf
+  - /stamm/st-martin
+  - /staemme/10-daisendorf
 page: true
 readmore: true
 thumbnail: "/img/staemme/daisendorf.webp"

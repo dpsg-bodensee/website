@@ -3,6 +3,11 @@ title: "Steißlingen, St. Remigius"
 name: "St. Remigius"
 ort: "Steißlingen"
 nr : 8
+aliasses:
+  - /stamm/steisslingen
+  - /stamm/steißlingen
+  - /stamm/st-remigius
+  - /staemme/08-steisslingen
 page: true
 readmore: true
 thumbnail: "/img/staemme/steisslingen.webp"

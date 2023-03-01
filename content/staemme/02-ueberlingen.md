@@ -3,6 +3,11 @@ title: "Überlingen, Paul VI."
 name: "Paul VI."
 ort: "Überlingen"
 nr: 2
+aliasses:
+  - /stamm/ueberlingen
+  - /stamm/überlingen
+  - /stamm/paul-vi
+  - /staemme/02-ueberlingen
 page: true
 readmore: true
 thumbnail: "/img/staemme/ueberlingen.webp"

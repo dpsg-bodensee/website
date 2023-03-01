@@ -3,6 +3,10 @@ title: "Markdorf, St. Nikolaus"
 name: "St. Nikolaus"
 ort: "Markdorf"
 nr: 14
+aliasses:
+  - /stamm/markdorf
+  - /stamm/st-nikolaus
+  - /staemme/14-markdorf
 page: true
 readmore: true
 thumbnail: "/img/staemme/markdorf.png"

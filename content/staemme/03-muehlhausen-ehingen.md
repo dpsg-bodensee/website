@@ -3,6 +3,11 @@ title: "Mühlhausen-Ehingen, Peter und Paul"
 name: "Peter und Paul"
 ort: "Mühlhausen-Ehingen"
 nr: 3
+aliasses:
+  - /stamm/muehlhausen-ehingen
+  - /stamm/mühlhausen-ehingen
+  - /stamm/peter-und-paul
+  - /staemme/03-muehlhausen-ehingen
 page: true
 readmore: true
 summary: "Aktueller Vorstand: Simon Missel, Marina Farkas, Roland Gaschler | Homepage: dpsg-ehingen.de | Instagram: dpsg_ehingen | Facebook: DPSGEhingen.Donau"

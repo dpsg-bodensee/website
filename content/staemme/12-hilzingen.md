@@ -3,6 +3,10 @@ title: "Hilzingen, Alfred Delp"
 name: "Alfred Delp"
 ort: "Hilzingen"
 nr: 12
+aliasses:
+  - /stamm/hilzingen
+  - /stamm/alfred-delp
+  - /staemme/12-hilzingen
 page: true
 readmore: true
 summary: "Homepage: dpsg-hilzingen.de | Facebook: DPSGHilzingen"

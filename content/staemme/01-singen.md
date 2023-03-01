@@ -3,6 +3,10 @@ title: "Singen, St. Pankratius"
 name: "St. Pankratius"
 ort: "Singen"
 nr: 1
+aliasses:
+  - /stamm/singen
+  - /stamm/st-pankratius
+  - /staemme/01-singen
 page: true
 readmore: true
 summary: "Facebook: dpsgSingen | Instagram: dpsg_singen"

@@ -3,6 +3,10 @@ title: "Konstanz, Bruder Klaus"
 name: "Bruder Klaus"
 ort: "Konstanz"
 nr: 13
+aliasses:
+  - /stamm/konstanz
+  - /stamm/bruder-klaus
+  - /staemme/13-konstanz
 page: true
 readmore: true
 thumbnail: "/img/staemme/konstanz.png"
