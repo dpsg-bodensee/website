@@ -9,4 +9,9 @@ menu:
 
 ## Bezirksvorstand
 
+Patrick Abdelhak und Franziska Lang  
+{{< cloakemail "vorstand@dpsg-bodensee.de" >}}
+
 ## Stufenreferenten
+
+Roverstufe: Moritz

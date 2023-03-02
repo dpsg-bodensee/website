@@ -1,0 +1,38 @@
+name: Deploy website
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout submodules
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build website
+        run: hugo
+
+      - name: Copy website to host
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+            username: 'my_webapp'
+            server: 'www.dpsg-bodensee.de'
+            port: 22
+            local_path: './public/*'
+            remote_path: '/var/www/my_webapp/www'
+            sftp_only: true
+            password: ${{ secrets.FTP_PASSWORD }}

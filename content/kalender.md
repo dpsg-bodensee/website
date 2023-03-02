@@ -1,6 +1,7 @@
 ---
 title: "Kalender"
 page: true
+draft: true
 menu:
   main:
     name: "Kalender"

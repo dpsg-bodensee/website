@@ -1,4 +1,4 @@
-baseurl = "https://bodensee.pages.dev"
+baseurl = "https://www.dpsg-bodensee.de"
 title = "DPSG Bezirk Bodensee"
 languageCode = "de"
 DefaultContentLanguage = "de"
@@ -65,7 +65,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
   github = "dpsg-bodensee"
   # gitlab = "username"
   # bitbucket = "username"
-  email = "info@dpsg-bodensee.de"
+  email = "vorstand@dpsg-bodensee.de"
   rss = "aktuelles"
 
 [markup]
