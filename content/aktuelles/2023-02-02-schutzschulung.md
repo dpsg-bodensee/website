@@ -14,7 +14,7 @@ wie ihr alle mitbekommen habt ist es für jeden und jede aktive/n Leiter\*in wel
 
 Für alle Leiterinnen und Leiter des Bezirks
 
-Anmeldung bis spätestens 20.03.2023 per Mail an  eruier@gmx.de bitte mit Vor- und Nachname,Alter , Stamm, aktuelle Stufe und Erst- oder Folgeschulung.
+Anmeldung bis spätestens 20.03.2023 per Mail an  {{<cloakemail "eruier@gmx.de" >}} bitte mit Vor- und Nachname,Alter , Stamm, aktuelle Stufe und Erst- oder Folgeschulung.
 
 Der Kurs wird von Erik vom Stamm Bruder Klaus Konstanz geteamt welcher als offizieller Multiplikator der DPSG anerkannt ist dh. ihr erhaltet nach dem Kurs ein entsprechendes Dokument welches Belegt das der Kurs erfolgreich absolviert wurde und für die nächsten 5 Jahre Gültigkeit behält.
 
