@@ -6,4 +6,5 @@ menu:
     name: "Stämme"
     weight: 1
     identifier: "staemme"
+orderByFilename: true
 ---
