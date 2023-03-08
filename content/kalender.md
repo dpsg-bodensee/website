@@ -1,9 +1,11 @@
 ---
 title: "Kalender"
 page: true
-draft: true
+draft: false
 menu:
   main:
     name: "Kalender"
     weight: 3
 ---
+
+{{< kalender >}}
