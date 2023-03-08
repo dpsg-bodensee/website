@@ -42,4 +42,4 @@ David und Carina Maier
 Schloßstraße 9  
 78256 Steißlingen
 
-{{< karte "47.7986511" "8.9264443" >}}
+{{< karte "47.79995336" "8.92414391" >}}
