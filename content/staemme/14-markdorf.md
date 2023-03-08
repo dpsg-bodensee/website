@@ -3,7 +3,7 @@ title: "Markdorf, St. Nikolaus"
 name: "St. Nikolaus"
 ort: "Markdorf"
 nr: 14
-aliasses:
+aliases:
   - /stamm/markdorf
   - /stamm/st-nikolaus
   - /staemme/14-markdorf

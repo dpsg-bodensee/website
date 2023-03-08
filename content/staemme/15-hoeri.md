@@ -3,7 +3,7 @@ title: "Höri, Rainbow"
 name: "Rainbow"
 ort: "Höri"
 nr: 15
-aliasses:
+aliases:
   - /stamm/hoeri
   - /stamm/höri
   - /stamm/rainbow

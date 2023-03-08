@@ -3,7 +3,7 @@ title: "Konstanz, Bruder Klaus"
 name: "Bruder Klaus"
 ort: "Konstanz"
 nr: 13
-aliasses:
+aliases:
   - /stamm/konstanz
   - /stamm/bruder-klaus
   - /staemme/13-konstanz

@@ -3,7 +3,7 @@ title: "Hilzingen, Alfred Delp"
 name: "Alfred Delp"
 ort: "Hilzingen"
 nr: 12
-aliasses:
+aliases:
   - /stamm/hilzingen
   - /stamm/alfred-delp
   - /staemme/12-hilzingen

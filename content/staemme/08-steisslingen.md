@@ -3,7 +3,7 @@ title: "Steißlingen, St. Remigius"
 name: "St. Remigius"
 ort: "Steißlingen"
 nr : 8
-aliasses:
+aliases:
   - /stamm/steisslingen
   - /stamm/steißlingen
   - /stamm/st-remigius

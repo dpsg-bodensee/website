@@ -3,7 +3,7 @@ title: "Überlingen, Paul VI."
 name: "Paul VI."
 ort: "Überlingen"
 nr: 2
-aliasses:
+aliases:
   - /stamm/ueberlingen
   - /stamm/überlingen
   - /stamm/paul-vi
