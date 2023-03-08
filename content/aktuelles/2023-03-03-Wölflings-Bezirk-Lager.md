@@ -1,11 +1,13 @@
 ---
-title: "Wölflingscamp 2023"
+title: "Wölflingscamp 2023 05.05. - 07.05."
+slug: "wölflingscamp"
 date: 2023-03-03
 draft: false
+tags: ["Wölflinge", "Lager"]
 ---
 
 Verbringt zusammen mit uns ein tolles
-Zeltwochenende (05.05. - 07.05.) am See, mit Lagerfeuer,
+Zeltwochenende am See, mit Lagerfeuer,
 Geländespiel, Spaß und Spiel und vor allem mit
 anderen Gruppen aus dem Bezirk Bodensee.
 Der Jugendzeltplatz Heinrich Suso in Litzelstetten
