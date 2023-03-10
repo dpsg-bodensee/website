@@ -3,14 +3,12 @@ name: Deploy website
 on:
   push:
     branches:
-      - master
       - main
-  pull_request:
   workflow_dispatch:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout submodules
         uses: actions/checkout@v3
@@ -22,15 +20,17 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          extended: true
+
 
       - name: Build website
-        run: hugo
+        run: hugo --minify
 
       - name: Copy website to host
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
             username: 'my_webapp'
-            server: 'www.dpsg-bodensee.de'
+            server: 'dpsg-bodensee.de'
             port: 22
             local_path: './public/*'
             remote_path: '/www'
