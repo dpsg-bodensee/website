@@ -1,6 +1,7 @@
 ---
 title: "Impressum und Datenschutz"
 page: true
+noindex: true
 ---
 
 ## Impressum nach § 5 TMG

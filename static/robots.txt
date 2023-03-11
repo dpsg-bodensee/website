@@ -1,0 +1,3 @@
+User-agent: *	
+Disallow: /yunohost/
+Sitemap: https://dpsg-bodensee.de/sitemap.xml
