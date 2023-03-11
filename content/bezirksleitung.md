@@ -5,6 +5,8 @@ menu:
   main:
     name: "Bezirksleitung"
     weight: 4
+description: "Bezirksleitung des Bezirks Bodensee"
+summary: "Beziksvorstand: Patrick Abdelhak und Franziska Lang, Referent Roverstufe: Moritz"
 ---
 
 ## Bezirksvorstand

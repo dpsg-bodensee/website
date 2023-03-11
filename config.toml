@@ -17,7 +17,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
 [Params]
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  twitter_cards = false # Enable Twitter Cards if true
+  twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
   authorbox = false # Show authorbox at bottom of pages if true
   toc = false # Enable Table of Contents
@@ -28,6 +28,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
   dateformat = "02.01.2006" # Change the format of dates
   selfHosted = true # Use self-hosted fonts/js/css if true
   start_button = true # Show "Start" button in header if true
+  description = "DPSG Bezirk Bodensee - die Pfadfinder mit Seeblick" # Site description
 
 [Params.style.vars]
   highlightColor = "#003056" # Override main theme color
@@ -35,8 +36,8 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
   header = "img/header.jpg" # Header image. Path relative to "static"
-  title = "Bezirk Bodensee" # Logo title, otherwise will use site title
-  subtitle = "Deutsche Pfadfinderschaft Sankt Georg" # Logo subtitle
+  title = "DPSG Bezirk Bodensee" # Logo title, otherwise will use site title
+  subtitle = "die Pfadfinder mit Seeblick" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

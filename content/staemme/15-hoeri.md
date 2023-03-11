@@ -10,6 +10,7 @@ aliases:
   - /staemme/15-hoeri
 page: true
 readmore: true
+description: "Stamm Rainbow von der Höri"
 menu:
   main:
     parent: "staemme"

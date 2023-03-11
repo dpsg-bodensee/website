@@ -10,6 +10,7 @@ aliases:
 page: true
 readmore: true
 summary: "Homepage: dpsg-hilzingen.de | Facebook: DPSGHilzingen"
+description: "Stamm Alfred Delp aus Hilzingen"
 menu:
   main:
     parent: "staemme"

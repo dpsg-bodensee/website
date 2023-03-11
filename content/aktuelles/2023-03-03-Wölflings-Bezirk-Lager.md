@@ -4,6 +4,7 @@ slug: "wölflingscamp"
 date: 2023-03-03
 draft: false
 tags: ["Wölflinge", "Lager"]
+description: "Bezirks-Wölflings-Lager 2023"
 ---
 
 Verbringt zusammen mit uns ein tolles

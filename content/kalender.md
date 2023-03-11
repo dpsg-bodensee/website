@@ -2,6 +2,7 @@
 title: "Kalender"
 page: true
 draft: false
+description: "Kalender des Bezirks Bodensee"
 menu:
   main:
     name: "Kalender"

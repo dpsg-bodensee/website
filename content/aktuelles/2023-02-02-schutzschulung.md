@@ -4,6 +4,7 @@ date: 2023-02-02
 slug: schutzschulung
 draft: false
 tags: ["Leiter", "Fortbildung" ]
+description: "Schutzschulung bzw. Präventionsauffrischung für Leiter*innen im Bezirk Bodensee"
 ---
 
 Liebe Leiterinnen und Leiter,

@@ -11,6 +11,7 @@ page: true
 readmore: true
 thumbnail: "/img/staemme/markdorf.png"
 summary: "Homepage: dpsg-markdorf.de"
+description: "Stamm St. Nikolaus aus Markdorf"
 thumbnail_hide_post: true
 menu:
   main:

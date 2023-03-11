@@ -11,6 +11,7 @@ aliases:
 page: true
 readmore: true
 summary: ""
+description: "Stamm Peter und Paul aus Mühlhausen-Ehingen"
 menu:
   main:
     parent: "staemme"
