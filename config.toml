@@ -67,7 +67,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
   # gitlab = "username"
   # bitbucket = "username"
   email = "vorstand@dpsg-bodensee.de"
-  rss = "aktuelles"
+  rss = "/aktuelles/index.xml"
 
 [markup]
   [markup.goldmark]
