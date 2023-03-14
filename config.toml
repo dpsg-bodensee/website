@@ -29,6 +29,7 @@ theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
   selfHosted = true # Use self-hosted fonts/js/css if true
   start_button = true # Show "Start" button in header if true
   description = "DPSG Bezirk Bodensee - die Pfadfinder mit Seeblick" # Site description
+  customPartial = "plausible.html" # Custom partial to include in footer
 
 [Params.style.vars]
   highlightColor = "#003056" # Override main theme color

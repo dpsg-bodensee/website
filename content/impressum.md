@@ -27,6 +27,19 @@ Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datens
 
 Wir versuchen auf unserer Website nur solche personenbezogenen Daten zu erheben, die für die Bereitstellung unserer Dienste erforderlich sind. Die Website kann grundsätzlich ohne Registrierung besucht werden. Wir erheben und speichern automatisch in unseren Server Log Files Informationen, die Ihr Browser an uns übermittelt.
 
+### Plausible Analytics
+
+Wir nutzen Plausible Analytics (mit einer privat betriebenen Instanz) zur Analyse der Zugriffe auf unsere Website. Die Daten werden ausschließlich anonymisiert und pseudonymisiert verarbeitet. Die Daten werden nicht an Dritte weitergegeben. Die Daten, die wir über Plausible Analytics erheben, sind:
+
+- Besuchte Seite
+- Referrer
+- Betriebssystem
+- Browser
+- Gerätetyp
+- Land/Region/Ort
+
+Weitere Informationen finden Sie in der [Datenschutzerklärung von Plausible Analytics](https://plausible.io/data-policy).
+
 ### Einbindung von Diensten und Inhalten Dritter
 
 #### OpenStreetMap
