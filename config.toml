@@ -3,7 +3,7 @@ title = "DPSG Bezirk Bodensee"
 languageCode = "de"
 DefaultContentLanguage = "de"
 paginate = "10" # Number of posts per page
-theme = ["hugo-dpsg", "hugo-cloak-email" , "hugo-photoswipe-gallery"]
+theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
 
 # [Author] # Used in authorbox
 #   name = "Scout Master"
