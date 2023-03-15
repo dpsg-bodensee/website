@@ -10,9 +10,9 @@
 {{/* Alter display with Javascript by changing DOM */}}
 <script id="script-{{ $fingerprint }}">
     var scriptTag = document.getElementById("cloak-{{ $fingerprint }}");
-    var address = atob('{{ $address | base64Encode }}') {{ with $query }} + '?' + atob('{{ $query | base64Encode }}'){{ end }}; 
+    var address = decodeURIComponent(escape(atob('{{ $address | base64Encode }}'))) {{ with $query }} + '?' + decodeURIComponent(escape(atob('{{ $query | base64Encode }}'))){{ end }}; 
     {{ with $displaytext }}
-    var text = atob('{{ $displaytext | base64Encode }}');
+    var text = decodeURIComponent(escape(atob('{{ $displaytext | base64Encode }}')));
     {{ else }}
     var text = address.split('?')[0];
     {{ end }}
