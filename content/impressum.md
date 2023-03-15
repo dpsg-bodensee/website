@@ -2,20 +2,26 @@
 title: "Impressum und Datenschutz"
 page: true
 noindex: true
+sitemap_hide: true
 ---
 
 ## Impressum nach § 5 TMG
 
 Der Bezirk Bodensee der Deutschen Pfadfinderschaft Sankt Georg (DPSG) ist ein nicht eingetragener Verein. Er wird vertreten durch den Vorstand.
 
-<!-- ### Anschrift
-
-DPSG Bezirk Bodensee  
-c/o Vorstand -->
-
 ### Kontakt
 
 Email: {{< cloakemail "vorstand@dpsg-bodensee.de" >}}
+
+### Inhaltlich für die Website verantwortliche Person
+
+{{<cloak>}}
+Emil Steiner <br>
+Bodenseestraße 8 <br>
+78315 Radolfzell
+{{</cloak>}}
+
+Email: {{< cloakemail "admin@dpsg-bodensee.de" >}}
 
 ## Datenschutzerklärung
 
