@@ -2,7 +2,7 @@
 {{- $address := .Get "address" | default (.Get 0) -}}
 {{- $protocol := .Get "protocol" | default "mailto" -}}
 {{- $class := .Get "class" -}}
-{{- $displaytext := .Get "display" -}}
+{{- $displaytext := .Get "display" | default (.Get 1) -}}
 {{- $query := .Get "query" | default "" -}}
 {{/* Compute md5 fingerprint */}}
 {{- $fingerprint := md5 (print $address $protocol (index (seq 999 | shuffle) 0)) | truncate 8 "" -}}
