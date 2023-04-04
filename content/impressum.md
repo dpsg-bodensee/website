@@ -5,7 +5,7 @@ noindex: true
 sitemap_hide: true
 ---
 
-## Impressum nach § 5 TMG
+## Impressum
 
 Der Bezirk Bodensee der Deutschen Pfadfinderschaft Sankt Georg (DPSG) ist ein nicht eingetragener Verein. Er wird vertreten durch den Vorstand.
 
