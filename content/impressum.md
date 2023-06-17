@@ -16,9 +16,11 @@ Email: {{< cloakemail "vorstand@dpsg-bodensee.de" >}}
 ### Inhaltlich für die Website verantwortliche Person
 
 {{<cloak>}}
+<address>
 Emil Steiner <br>
 Bodenseestraße 8 <br>
 78315 Radolfzell
+</address>
 {{</cloak>}}
 
 Email: {{< cloakemail "admin@dpsg-bodensee.de" >}}
