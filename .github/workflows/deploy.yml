@@ -22,20 +22,8 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-
       - name: Build website
         run: hugo --minify
-
-      - name: Copy website to old host
-        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
-        with:
-            username: 'my_webapp'
-            server: 'dpsg-bodensee.de'
-            port: 22
-            local_path: './public/*'
-            remote_path: '/www'
-            sftp_only: true
-            password: ${{ secrets.FTP_PASSWORD }}
 
       - name: Copy website to host
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
@@ -44,5 +32,5 @@ jobs:
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
           protocol: ftps
-          local-dir: './public/*'
+          local-dir: './public/'
         
