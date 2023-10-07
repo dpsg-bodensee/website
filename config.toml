@@ -30,7 +30,7 @@ theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
   start_button = true # Show "Start" button in header if true
   description = "DPSG Bezirk Bodensee - die Pfadfinder mit Seeblick" # Site description
   customPartial = "plausible.html" # Custom partial to include in footer
-  darkMode = false # Enable automatic dark mode
+  darkMode = true# Enable automatic dark mode
 
 
 [Params.style.vars]
