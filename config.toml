@@ -57,7 +57,7 @@ theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
 
 [Params.footer]
   # text = "" # Extra text in footer row, understands markdown
-  right = "[Impressum und Datenschutz](/impressum/)" # Right-aligned text in footer row, understands markdown
+  right = "**[Impressum und Datenschutz](/impressum/)**" # Right-aligned text in footer row, understands markdown
 
 [Params.widgets.social]
   # Enable parts of social widget
