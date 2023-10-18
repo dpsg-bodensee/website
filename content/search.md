@@ -1,6 +1,6 @@
 ---
 title: "Suche"
-sitemap:
-  priority : 0.1
+noindex: true
+sitemap_hide: true
 layout: "search"
 ---
