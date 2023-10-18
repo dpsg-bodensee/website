@@ -38,7 +38,7 @@ Bei den alljährlichen Schwedenprozessionen wird die Schwedenmadonna durch uns P
 
 ## Links
 
-* Homepage: [dpsg-ueberlingen.de](http://dpsg-ueberlingen.de)
+* Homepage: [dpsg-ueberlingen.de](https://dpsg-ueberlingen.de)
 * Facebook: [facebook.com/dpsgueberlingen](https://www.facebook.com/dpsgueberlingen)
 
 ## Wo wir uns treffen
