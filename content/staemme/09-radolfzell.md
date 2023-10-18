@@ -27,7 +27,7 @@ Wir wurden am 3. April 1956 in Radolfzell gegründet. Der Gründungsname unseres
 
 ## aktueller Vorstand
 
-Thomas (Frosch)  
+Thomas (Frosch) und David  
 Kontakt: {{< cloakemail "vorstand@dpsg-radolfzell.de" >}}
 
 ## Links
