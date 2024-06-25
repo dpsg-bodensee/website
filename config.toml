@@ -2,7 +2,7 @@ baseurl = "https://dpsg-bodensee.de"
 title = "DPSG Bezirk Bodensee"
 languageCode = "de"
 DefaultContentLanguage = "de"
-paginate = "10" # Number of posts per page
+paginate = "5" # Number of posts per page
 theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
 
 # [Author] # Used in authorbox
@@ -30,7 +30,7 @@ theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
   start_button = true # Show "Start" button in header if true
   description = "DPSG Bezirk Bodensee - die Pfadfinder mit Seeblick" # Site description
   customPartial = "plausible.html" # Custom partial to include in footer
-  darkMode = true# Enable automatic dark mode
+  darkMode = true # Enable automatic dark mode
 
 
 [Params.style.vars]
@@ -93,3 +93,4 @@ theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
