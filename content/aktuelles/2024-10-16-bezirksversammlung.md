@@ -10,6 +10,11 @@ description: "Bezirksversammlung 2024"
 Unsere diesjährige Bezirksversammlung findet am Montag, den 18. November 2024 um 19:30 Uhr statt.  
 Wir treffen uns im Meinradshaus in Radolfzell. Sankt Meinradsplatz 1, 78315 Radolfzell (siehe [Karte](#karte))
 
+**Dieses Jahr finden Vostandswahlen statt. Unsere Amtszeit ist mit Ende dieser Versammlung zu Ende. Ich (Patrick) werde keine weitere Amtszeit zur Verfügung stehen. Franziska könnte es sich vorstellen, würde aber gerne Unterstzützung haben.**
+
+**Bitte macht euch Gedanken ob ihr evtl. jemanden kennt, der sich es vorstellen könnte das Amt auszuführen. Ihr könnt gerne auf mich oder Franziska zukommen, wenn ihr Fragen zu dem Amt habt.**
+
+
 Als Tagesordnung für die Versammlung haben wir vorgesehen:
 > Top 1: Begrüßung und Einstieg  
 > Top 2: Kurze Vorstellungsrunde und Feststellung der Beschlussfähigkeit  
