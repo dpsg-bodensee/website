@@ -25,14 +25,6 @@ Als Pfadfinderin genieße ich die Begegnung mit immer neuen Menschen die dieselb
 
 Kontakt: {{<cloakemail "Franziska.Lang@dpsg-bodensee.de" >}}
 
-### Patrick
-<img src="/img/bl/patrick.jpeg" title="Patrick" style="float: right; margin: 0 0 1em 1em;">
-Patrick vom Stamm Bruder Klaus Konstanz, seit 2019 Bezirksvorsitzender vom Bezirk Bodensee. Der DPSG bin ich im Jahr 1991 als Wölfling beigetreten und seit 2002 bin ich als Leiter tätig, aktuell in der Pfadistufe, hab aber auch schon Wös und Jupfis geleitet. Im Bezirk Bodensee bin ich zudem als Modulkursteamer aktiv. Seit 2021 bin zudem wieder als Stammesvorstand aktiv, dieses Amt übte ich auch schon von 2010 bis 2019 aus.
-
-An den Pfadfindern gefällt mir der Zusammenhalt, das gemeinschaftliche zusammenarbeiten über das alter hinweg und vor allem die Zeit auf Lagern oder anderen Pfadiaktionen, in der Stufe, Stamm oder Bezirk
-
-Kontakt: {{<cloakemail "Patrick.Abdelhak@dpsg-bodensee.de" >}}
-
 ## Stufenreferenten
 
 ### Moritz (Roverstufe)
