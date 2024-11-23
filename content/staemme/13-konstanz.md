@@ -21,7 +21,7 @@ menu:
 ---
 Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren, später dann aber wurden die ersten Zelte angeschafft und “richtige” Lager aufgebaut. Seit damals ist unser Stamm gewachsen, sowohl in Mitgliedern als auch Erfahrung.
 
-## aktueller Vorstand
+## Aktueller Vorstand
 
 Patrick Abdelhak und Lisa Stadler {{< cloakemail "mail@pfadfinder-konstanz.de" >}}
 

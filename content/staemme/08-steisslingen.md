@@ -30,7 +30,7 @@ Das hat sich heute schon grundlegend geändert: Der Transport in große Lager er
 
 Die Natur zu erkennen, zu ergründen und zu verstehen war schon immer unsere Absicht, heute gepaart mit dem notwendigen Gedanken des Umweltschutzes. Bei den Jahresaktionen, z.B. "Gegen Diskriminierung", "Stoppt Rechts" und "Movida Bolivia" kam der Grundgedanke der Pfadfinder der Stärkere schützt den Schwächeren zur Geltung. Seit 1992 werden Gruppenstunden mit Mädchen und Jungen gemeinsam durchgeführt.
 
-## aktueller Vorstand
+## Aktueller Vorstand
 
 Dominik Fischer und Kim Mandrella
 ## Links

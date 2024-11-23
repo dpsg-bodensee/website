@@ -31,7 +31,7 @@ Unseren Namen erhielten wir durch unseren Schutzpatron, Papst Paul VI (früher G
 
 Bei den alljährlichen Schwedenprozessionen wird die Schwedenmadonna durch uns Pfadfinder von Altar zu Altar getragen. Anschließend wird an diesem Tag auch die Tür zum Münsterturm von uns für die Öffentlichkeit geöffnet.
 
-## aktueller Vorstand
+## Aktueller Vorstand
 
 * Sascha Schweitzer {{< cloakemail "sascha.schweitzer@dpsg-ueberlingen.de" >}}  
 * Michael Schäfer {{< cloakemail "michael.schäfer@dpsg-ueberlingen.de" >}}

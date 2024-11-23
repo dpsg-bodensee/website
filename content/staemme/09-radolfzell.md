@@ -25,7 +25,7 @@ menu:
 
 Wir wurden am 3. April 1956 in Radolfzell gegründet. Der Gründungsname unseres Stammes war Siedlung Wiking, wurde dann sehr viel später  in Stamm Impeesa geändert. _Impeesa_ war ein Spitzname des Gründers der Pfadfinder, Lord Baden-Powell und heißt übersetzt „der Wolf der nie schläft“.
 
-## aktueller Vorstand
+## Aktueller Vorstand
 
 Thomas (Frosch) und David  
 Kontakt: {{< cloakemail "vorstand@dpsg-radolfzell.de" >}}

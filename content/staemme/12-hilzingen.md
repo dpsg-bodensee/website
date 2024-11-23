@@ -18,7 +18,7 @@ menu:
     weight: 12
 ---
 
-## aktueller Vorstand
+## Aktueller Vorstand
 
 Kontakt: {{< cloakemail "vorstandsteam@dpsg-hilzingen.de" >}}
 
