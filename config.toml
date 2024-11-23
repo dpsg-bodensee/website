@@ -2,8 +2,10 @@ baseurl = "https://dpsg-bodensee.de"
 title = "DPSG Bezirk Bodensee"
 languageCode = "de"
 DefaultContentLanguage = "de"
-paginate = "5" # Number of posts per page
 theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
+
+[pagination]
+  pagerSize = "5" # Number of posts per page
 
 # [Author] # Used in authorbox
 #   name = "Scout Master"
