@@ -23,7 +23,7 @@ Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren,
 
 ## aktueller Vorstand
 
-Patrick Abdelhak und Max Mehl {{< cloakemail "mail@pfadfinder-konstanz.de" >}}
+Patrick Abdelhak und Lisa Stadler {{< cloakemail "mail@pfadfinder-konstanz.de" >}}
 
 ## Links
 
