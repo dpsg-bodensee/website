@@ -32,8 +32,7 @@ Die Natur zu erkennen, zu ergründen und zu verstehen war schon immer unsere Abs
 
 ## aktueller Vorstand
 
-David und Carina Maier
-
+Dominik Fischer und Kim Mandrella
 ## Links
 
 * Homepage: [dpsg-steisslingen.de](https://dpsg-steisslingen.de)
