@@ -20,7 +20,7 @@ menu:
 
 ## aktueller Vorstand
 
-{{< cloakemail "vorstandsteam@dpsg-hilzingen.de" >}}
+Kontakt: {{< cloakemail "vorstandsteam@dpsg-hilzingen.de" >}}
 
 ## Links
 
