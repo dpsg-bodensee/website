@@ -28,7 +28,7 @@ Du solltest 18 Jahre alt sein. Nach Rücksprache können auch jüngere Personen 
 
 **Wo?** Freizeithaus Käsenbachtal in Albstadt
 
-{{<karte 48.2340749 8.9543865 >}}
+{{<karte 48.234294 8.954769 >}}
 
 ## Modulkurs Teil 2 bei Rottweil
 
@@ -44,7 +44,7 @@ Der Baustein 2d ist nicht Bestandteil des Kurses. Da die Präventionsschulung Vo
 
 **Wo?** Bauernhaus der Geschwister-Scholl-Schule in Zimmern unter der Burg
 
-{{<karte 48.221116 8.718363 >}}
+{{<karte 48.220974 8.718488 >}}
 
 ## Anmeldung
 
