@@ -7,10 +7,15 @@ tags: ["Leiter", "Fortbildung" ]
 description: "Modulkurs Teil 1 und 2"
 ---
 
-Die Koop Ost (Bezirke Bodensee, Baar und Hohenzollern) bietet dieses Jahr Wochendkurse für die Module 1 und 2 an.
-Die Module der Woodbadge-Modul-Ausbildung können in beliebiger Reihenfolge besucht werden.
+Die Koop Ost (Bezirke Baar, Hohenzollern und Bodensee) bietet dieses Jahr Wochendkurse für die Module 1 und 2 an.
+Die Module der Woodbadge-Modul-Ausbildung können in beliebiger Reihenfolge besucht werden. Du kannst also auch nur eines der Module besuchen.
+Um die Berechtigung für die JuLeiCa zu erhalten musst du alle drei module (Modul 3 wird dieses Jahr von uns nicht Angeboten) absolviert haben. Die absolvierten Bausteine  werden nach erfolgreicher Teilnahme im Ausbildungsheft abgestempelt.
 
-## Modulkurs Teil 1 in Albstadt
+Wir empfehlen bereits eine gewisse Leitungserfahrung mitzubringen und aktuell eine Leitungstätigkeit auszuüben.
+Du solltest 18 Jahre alt sein. Nach Rücksprache können auch jüngere Personen teilnehmen.
+
+
+## Modulkurs Teil 1 bei Albstadt
 
 **Was**:
 
@@ -23,18 +28,23 @@ Die Module der Woodbadge-Modul-Ausbildung können in beliebiger Reihenfolge besu
 
 **Wo?** Freizeithaus Käsenbachtal in Albstadt
 
-## Modulkurs Teil 2 in Zimmern unter der Burg
+{{<karte 48.2340749 8.9543865 >}}
+
+## Modulkurs Teil 2 bei Rottweil
 
 **Was?**
 
 - 2a: Lebenswelt und Pädagogik
 - 2b: Geschlechterbewusste Gruppenarbeit
 - 2c: Pfadfinderische Methodik
-- 2d: Prävention sexualisierte Gewalt
+
+Der Baustein 2d ist nicht Bestandteil des Kurses. Da die Präventionsschulung Voraussetzung für die Leitungstätigkeit ist, sollten die meisten diesen Baustein bereits haben. Falls nicht, findest du schulungstermine dafür unter: https://dpsg-freiburg.de/service/veranstaltungen/
 
 **Wann?** 26.09-28.09.2025, Anreise Freitag ab 19 Uhr, Ende Sonntag ca. 15 Uhr
 
 **Wo?** Bauernhaus der Geschwister-Scholl-Schule in Zimmern unter der Burg
+
+{{<karte 48.221116 8.718363 >}}
 
 ## Anmeldung
 
