@@ -30,7 +30,7 @@ Du solltest 18 Jahre alt sein. Nach Rücksprache können auch jüngere Personen 
 
 {{<karte 48.234294 8.954769 >}}
 
-## Modulkurs Teil 2 bei Rottweil
+## Modulkurs Teil 2 bei Schömberg
 
 **Was?**
 
