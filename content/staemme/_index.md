@@ -8,4 +8,5 @@ menu:
     identifier: "staemme"
 orderByFilename: true
 description: "Alle Stämme im Bezirk Bodensee"
+pagerSize: 10
 ---
