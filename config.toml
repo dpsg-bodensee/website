@@ -2,7 +2,7 @@ baseurl = "https://dpsg-bodensee.de"
 title = "DPSG Bezirk Bodensee"
 languageCode = "de"
 DefaultContentLanguage = "de"
-theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
+theme = []
 
 [pagination]
   pagerSize = "5" # Number of posts per page
@@ -96,3 +96,8 @@ theme = ["hugo-dpsg", "hugo-photoswipe-gallery"]
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[module]
+[[module.imports]]
+    path = 'github.com/emhl/hugo-dpsg'
+[[module.imports]]
+    path = 'github.com/emhl/hugo-photoswipe-gallery'

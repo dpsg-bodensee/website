@@ -1,6 +1,0 @@
-[submodule "themes/hugo-dpsg"]
-	path = themes/hugo-dpsg
-	url = https://github.com/emhl/hugo-dpsg
-[submodule "themes/hugo-photoswipe-gallery"]
-	path = themes/hugo-photoswipe-gallery
-	url = https://github.com/emhl/hugo-photoswipe-gallery
