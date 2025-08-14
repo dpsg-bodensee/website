@@ -36,8 +36,8 @@ theme = []
   highlightColor = "#003056" # Override main theme color
 
 [Params.logo]
-  image = "img/regenbogen-lilie.svg" # Logo image. Path relative to "static"
-  header = "img/header.webp" # Header image. Path relative to "static"
+  image = "/img/regenbogen-lilie.svg" # Logo image. Path relative to "static"
+  header = "/img/header.webp" # Header image. Path relative to "static"
   title = "DPSG Bezirk Bodensee" # Logo title, otherwise will use site title
   subtitle = "die Pfadfinder mit Seeblick" # Logo subtitle
 

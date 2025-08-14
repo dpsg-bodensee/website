@@ -1,0 +1,11 @@
+# Docker image to use for building
+image: hubci/hugo:0.145.0
+# Build command
+command: hugo --gc --minify
+# Public directory
+public: public
+domains:
+  # Primary domain
+  - dpsg-bodensee.de
+  # Domains that redirect to the primary
+  - www.dpsg-bodensee.de
