@@ -1,143 +1,136 @@
+{{- $lat := .Get "lat" | default (.Get 0) | default 47.7809 | float -}}
+{{- $lon := .Get "lon" | default (.Get 1) | default 9.0816 | float -}}
+{{- $zoom := .Get "zoom" | default (.Get 2) | default 9 | int -}}
+{{ $data := .Get "data" | default (.Get 3) | default "map/bezirk.geojson" }}
 
-{{ $url := .Get "url" | default (.Get 0) | default "" }}
-
-{{ $height := .Get "height" | default (.Get 1) | int | default 450 }}
+{{ $width := .Get "width" | default (.Get 4) | default 750 }}
+{{ $height := .Get "height" | default (.Get 5) | default 450 }}
 
 {{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e22d30") -}}
 {{- $accentColor := .Site.Params.style.vars.accentColor | default (.Site.Params.accentColor | default "#810a1a") -}}
 
-<div id="karte">
+{{ $lineColor := .Get "lineColor" | default $accentColor }}
+{{ $lineWidth := .Get "lineWidth" | default 3 }}
 
-    <div id="cookie-notice">
-        <span>Wir würden gerne hier gerne Karten von OpenStreetMaps einbinden</span>
-        <br>
-        <a id="cookie-notice-accept" href="#karte" class="btn btn-primary btn-sm">Akzeptieren</a>
-        <a id="cookie-notice-deny" href="#karte" class="btn btn-primary btn-sm">Ablehnen</a>
-        <a href="/impressum/#openstreetmap" class="btn btn-primary btn-sm">Mehr infos</a>
-    </div>
+{{ $pointColor := .Get "pointColor" | default $highlightColor }}
+{{ $pointRadius := .Get "pointRadius" | default 5 }}
 
-    <div id="karte-content">
-        <p>Bitte aktivieren Sie Cookies und bestätigen sie das einbinden von externen Inhalten, um die Karte zu sehen.</p>
-    </div>
+{{ $mapStyle := .Get "mapStyle" | default "map/style-graybeard.json" }}
 
+{{ $style := resources.Get "map/maplibre-gl.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" {{ printf "integrity=%q" $style.Data.Integrity | safeHTMLAttr }}>
+
+{{ $script := resources.Get "map/maplibre-gl.js" | minify | fingerprint -}}
+<script src="{{ $script.RelPermalink }}" {{ printf "integrity=%q" $script.Data.Integrity | safeHTMLAttr }} type="text/javascript"></script>
+
+
+<div id ="karte">
+    <noscript style="color: var(--inverted-primary-color);">
+       wir würden hier gerne eine Karte einbinden. Um diese anzeigen zu können, musst du Javascript aktivieren.
+    </noscript>
 </div>
 
-
-
-
 <style>
-    #cookie-notice {
-        background-color: {{$highlightColor}};
-        color: white;
-        padding: 1px;
-        padding: 0.5rem;
-        display: none;
-    }
-    #cookie-notice a {
-        color: white;
-        margin-left: 10px;
-        margin-left: 0.5rem;
-        
-    }
-    #karte {
-        border: 3px solid {{$highlightColor}};
-        border: 0.2rem solid {{$highlightColor}};
-        border-radius: 5px;
-        border-radius: 0.3rem;
-        width: 100%;
-        height: {{$height | add 10 }}px;
-    }
-
-    /* style a tag with btn class */
-    #cookie-notice a.btn {
-        background-color: {{$accentColor}};
-        border-radius: 5px;
-        border-radius: 0.3rem;
-        padding: 0.3rem;
-        margin: 0.3rem;
-        color: white;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        font-size: 1rem;
-        cursor: pointer;
-    }
-
-        
-
-    #karte-content {
-        text-align: center;
-    }
+  #karte {
+      border: 3px solid {{$highlightColor}};
+      border: 0.2rem solid {{$highlightColor}};
+      border-radius: 5px;
+      border-radius: 0.3rem;
+      width: {{$width}}px;
+      max-width: 100%;
+      height: {{$height | add 6 }}px;
+  }
+.maplibregl-popup-content {
+    color: black;
+}
 </style>
 
+
+
 <script>
-    function createCookie(name,value,days) {
-        var expires = "";
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = "; expires=" + date.toUTCString();
-        }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for(var i=0;i < ca.length;i++) {
-            var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-        }
-        return null;
-    }
-    function eraseCookie(name) {
-        createCookie(name,"",-1);
-    }
+    const map = new maplibregl.Map({
+        container: 'karte',
+        style: {{ with resources.Get $mapStyle }} {{ .Content | safeJS }} {{ end }},
+        center: [{{$lon}}, {{$lat}}],
+        zoom: {{$zoom}},
+        minZoom: 7,
+        maxZoom: 15
+    });
 
-    if(readCookie('osm-consent')=='true') {
+    // add toggle to view the map in fullscreen
+    map.addControl(new maplibregl.FullscreenControl());
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new maplibregl.NavigationControl({
+        visualizePitch: true,
+        visualizeRoll: true,
+        showZoom: true,
+        showCompass: true
+    }));
+    map.on('load', () => {
+        map.addSource('data', {
+            type: 'geojson',
+            data: {{ with resources.Get $data }} {{ .Content | safeJS }} {{ end }}
+        });
+
+        map.addLayer({
+            "id": "polygon",
+            "type": "fill",
+            "source": "data",
+            "paint": {
+                "fill-color": {{ $lineColor }},
+                "fill-opacity": 0.3,
+                "fill-outline-color": {{ $lineColor }},
+            },
+            "filter": ["==", "$type", "Polygon"],
+        });
+
+        map.addLayer({
+            "id": "outline",
+            "type": "line",
+            "source": "data",
+            paint: {
+                "line-color": {{ $lineColor }},
+                "line-width": {{ $lineWidth }},
+            },
+            "filter": ["==", "$type", "Polygon"],
+        });
+
+
         
-        function loadScriptAsync(scriptSrc, callback) {
-            if (typeof callback !== 'function') {
-                throw new Error('Not a valid callback for async script load');
+        map.addLayer({
+            "id": "points",
+            "type": "circle",
+            "source": "data",
+            "paint": {
+                "circle-radius": 8,
+                "circle-color": {{ $pointColor }},
+            },
+            "filter": ["==", "$type", "Point"]
+        });
+       
+        map.on('click', 'points', (e) => {
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const name = e.features[0].properties.name;
+
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
             }
-            var script = document.createElement('script');
-            script.onload = callback;
-            script.src = scriptSrc;
-            document.head.appendChild(script);
-        }
 
-        // replace div with id="karte" with iframe
-        var div = document.getElementById('karte-content');
-        var iframe = document.createElement('iframe');
-        iframe.width = "100%";
-        iframe.height = "{{$height}}";
-        iframe.title = "Karte";
-        iframe.frameborder = "0";
-        iframe.scrolling = "no";
-        iframe.marginheight = "0";
-        iframe.marginwidth = "0";
-        iframe.src = "{{ $url }}";
-        iframe.style = "border: 0px";
-        div.parentNode.replaceChild(iframe, div);
+            new maplibregl.Popup()
+                .setLngLat(coordinates)
+                .setHTML(name)
+                .addTo(map);
+        });
 
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'points', () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
 
-    } else if (readCookie('osm-consent')!='false'){
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
-
-    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('osm-consent','true',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', 'points', () => {
+            map.getCanvas().style.cursor = '';
+        });
     });
-
-    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
-        createCookie('osm-consent','false',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
-
 </script>
-
-
-
