@@ -1,0 +1,40 @@
+{
+  "feeds": [
+    {
+      "name": "Allgemein",
+      "url": "/kalender/allgemein.ics",
+      "color": "purple",
+      "checked": true
+    },
+    {
+      "name": "Wölflinge",
+      "url": "/kalender/woelflinge.ics",
+      "color": "#ff6400",
+      "checked": true
+    },
+    {
+      "name": "Jufis",
+      "url": "/kalender/jupfis.ics", 
+      "color": "#2f53a7",
+      "checked": true
+    },
+    {
+      "name": "Pfadis",
+      "url": "/kalender/pfadis.ics",
+      "color": "#00823c",
+      "checked": true
+    },
+    {
+      "name": "Rover",
+      "url": "/kalender/rover.ics",
+      "color": "#cc1f2f",
+      "checked": true
+    },
+    {
+      "name": "Ausbildung",
+      "url": "/kalender/ausbildung.ics",
+      "color": "#9d9d9c",
+      "checked": true
+    }
+  ]
+}
