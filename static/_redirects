@@ -1,0 +1,10 @@
+#redirect
+/webmail https://webmail01.netcup.net
+/account https://mxe8db.webhosting.systems
+/cloud   https://cloud.dpsg-bodensee.de
+/stats   https://stats.dpsg-bodensee.de/dpsg-bodensee.de
+
+#proxy
+/plausible/js/script.js https://stats.dpsg-bodensee.de/js/script.file-downloads.outbound-links.tagged-events.js 200
+/plausible/api/event    https://stats.dpsg-bodensee.de/api/event 200
+/vtiles/*               https://tiles.versatiles.org/:splat 200
