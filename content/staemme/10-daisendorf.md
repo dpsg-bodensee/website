@@ -30,7 +30,7 @@ Kontakt: {{< cloakemail "dpsgstmartin@gmail.com" >}}
 
 ## Links
 
-* Homepage: [st-martin-daisendorf.blogspot.com](http://dpsg-daisendorf.de)
+* Homepage: [dpsg-daisendorf.de](http://dpsg-daisendorf.de)
 * Instagram [dpsg_daisendorf_](https://www.instagram.com/dpsg_daisendorf_/)
 
 ## Wo wir uns treffen
@@ -42,11 +42,11 @@ Rathaus und Bürgersaal Daisendorf
 Ortsstraße 22   
 88718 Daisendorf
 
-{{< karte "47.7111578" "9.2691573" >}}
+{{< karte "47.7111578" "9.2691573" "16">}}
 
 ### Outdoor Gruppenstunden
 
 Oft treffen wir uns auch auf unserem Gartengrundstück in der Nähe des Friedhofs:
-{{< karte "47.715621" "9.260385" >}}
+{{< karte "47.715621" "9.260385" "15" >}}
 
 

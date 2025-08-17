@@ -9,8 +9,8 @@ aliases:
   - /staemme/13-konstanz
 page: true
 readmore: true
-thumbnail: "/img/staemme/konstanz.png"
-summary: "Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren, später dann aber wurden die ersten Zelte angeschafft und “richtige” Lager aufgebaut. Seit damals ist unser Stamm gewachsen, sowohl in Mitgliedern als auch Erfahrung. Aktueller Vorstand: Patrick Abdelhak und Max Mehl | Homepage: pfadfinder-konstanz.de"
+thumbnail: "/img/staemme/konstanz.webp"
+summary: "Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren, später dann aber wurden die ersten Zelte angeschafft und “richtige” Lager aufgebaut. Seit damals ist unser Stamm gewachsen, sowohl in Mitgliedern als auch Erfahrung. Homepage: pfadfinder-konstanz.de"
 description: "Stamm Bruder Klaus aus Konstanz"
 thumbnail_hide_post: true
 menu:
@@ -28,6 +28,7 @@ Patrick Abdelhak und Lisa Stadler {{< cloakemail "mail@pfadfinder-konstanz.de" >
 ## Links
 
 * Homepage: [pfadfinder-konstanz.de](https://pfadfinder-konstanz.de)
+* Instagram: [pfadfinder.konstanz](https://www.instagram.com/pfadfinder.konstanz/)
 
 ## Wo wir uns treffen
 
