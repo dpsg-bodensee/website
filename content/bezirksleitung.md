@@ -16,7 +16,7 @@ Der Bezirksvorstand wird von der Bezirksversammlung, d.h. von den Vertretern der
 Du erreichst den Vorstand unter: {{< cloakemail "vorstand@dpsg-bodensee.de" >}}
 
 ### Franziska
-<img src="/img/bl/franzi.jpeg" title="Franziska" style="float: right; margin: 0 0 1em 1em;">
+<img src="/img/bl/franzi.jpeg" title="Franziska" style="width: 15rem; float: right; margin: 0 0 1em 1em;">
 „Happiness does not come to those who sit and wait“ (Baden -Powell) 
 
 Franziska vom Stamm St. Ulrich von Augsburg aus der DPSG Villingen, seit 2022 Bezirksvorsitzende im Bezirk Bodensee. Der DPSG beigetreten im Jahr 2011 als Jungpfadfinder und seit 2016 Wölflingsleiterin im Stamm Villingen. Im Bezirk Bodensee bin ich zudem als Modulkursteamerin und Multiplikatorin für Präventionsschulungen aktiv. Auf Diözesanebene arbeite ich seit 2020 im Arbeitskreis für Inklusion mit und bin auf (fast) jeder Diözesanveranstaltung zu finden.
@@ -28,7 +28,7 @@ Kontakt: {{<cloakemail "Franziska.Lang@dpsg-bodensee.de" >}}
 ## Stufenreferenten
 
 ### Moritz (Roverstufe)
-<img src="/img/bl/moritz.jpeg" title="Moritz" style="float: right; margin: 0 0 1em 1em;">
+<img src="/img/bl/moritz.jpeg" title="Moritz" style="width: 15rem; float: right; margin: 0 0 1em 1em;">
 Moritz vom Stamm St. Pankratius in Singen seit 2022 Roverreferent im Bezirk Bodensee und bin deshalb bei jeder Roveraktion zu finden. Bei der DPSG bin ich seit 2012. Aktuell bin ich im Stamm als Leiter der Jungpfadfinder Stufe. Im Bezirk bin ich zusätzlich als zukünftiger Modulteamer tätig.
 
 Bei den Pfadfindern bin ich wegen des Gemeinschaftsgefühls, egal wo man hin geht man wird immer mit offenen Armen empfangen. Ob man als Helfer oder als Teilnehmer zu Aktionen fährt man findet immer Anschluss und verbringt die tollsten Abende zusammen. Als Leiter und im Bezirk probiere ich mich stetig weiterzuentwickeln und den Jugendlichen unvergessliche Erinnerungen zu schaffen.
