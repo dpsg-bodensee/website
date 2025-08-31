@@ -12,7 +12,6 @@ readmore: true
 thumbnail: "/img/staemme/markdorf.png"
 summary: "Aktuell gibt es bei uns zwei Gruppenstunden. Einmal für Wölflinge/Jungpfadfinder, und einmal für Pfadfinder/Rover. Die Gruppen treffen sich dabei wöchentlich für ca. 1 Stunde. Homepage: dpsg-markdorf.de"
 description: "Stamm St. Nikolaus aus Markdorf"
-thumbnail_hide_post: true
 menu:
   main:
     parent: "staemme"

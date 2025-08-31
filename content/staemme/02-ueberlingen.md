@@ -11,7 +11,6 @@ aliases:
 page: true
 readmore: true
 thumbnail: "/img/staemme/ueberlingen.webp"
-thumbnail_hide_post: true
 description: "Stamm Paul VI. aus Überlingen"
 menu:
   main:

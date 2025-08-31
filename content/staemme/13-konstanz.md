@@ -12,7 +12,6 @@ readmore: true
 thumbnail: "/img/staemme/konstanz.webp"
 summary: "Unseren Stamm gibt es seit 1985. Zuerst sind wir “nur” auf Hütten gefahren, später dann aber wurden die ersten Zelte angeschafft und “richtige” Lager aufgebaut. Seit damals ist unser Stamm gewachsen, sowohl in Mitgliedern als auch Erfahrung. Homepage: pfadfinder-konstanz.de"
 description: "Stamm Bruder Klaus aus Konstanz"
-thumbnail_hide_post: true
 menu:
   main:
     parent: "staemme"

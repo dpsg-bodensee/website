@@ -11,7 +11,6 @@ aliases:
 page: true
 readmore: true
 thumbnail: "/img/staemme/steisslingen.webp"
-thumbnail_hide_post: true
 description: "Stamm St. Remigius aus Steißlingen"
 menu:
   main:

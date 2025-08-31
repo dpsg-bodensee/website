@@ -9,7 +9,6 @@ aliases:
   - /staemme/01-singen
 page: true
 thumbnail: "/img/staemme/singen.webp"
-thumbnail_hide_post: true
 readmore: true
 summary: "Der Stamm Singen besteht aktuell aus über 65 Mitgliedern und wurde 1954 gegründet Wir gehören zur Seelsorgeeinheit Singen und bringen uns dort bei verschiedenen Aktionen ein, agieren jedoch selbstständig als Stamm und sind ökumenisch aufgebaut. Homepage: dpsg-singen.de | Facebook: dpsgSingen | Instagram: dpsg_singen"
 description: "Stamm St. Pankratius aus Singen"
